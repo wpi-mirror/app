@@ -1,0 +1,18 @@
+# all hidden files
+/.*
+
+# all directories
+/*
+
+# dep-git gitignore exclude
+!.github
+!content/plugins/.gitkeep
+!content/themes/.gitkeep
+!.editorconfig
+!.gitignore
+!composer.json
+!composer.lock
+!config.yml
+!phpcs.xml
+!README.md
+!Vagrantfile
