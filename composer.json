@@ -27,7 +27,7 @@
   "require": {
     "php": ">=7.1",
     "composer/installers": "^1.8",
-    "wpackagist-plugin/worker": "4.9.6",
+    "wpackagist-plugin/worker": "4.9.7",
     "wpackagist-theme/hello-elementor": "2.3.0"
   },
   "require-dev": {
